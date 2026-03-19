@@ -38,6 +38,18 @@ Example response from the Journal API.
 
 ![Postman Test](journalApp/screenshots/Testing.png)
 
+### ✅ Added Methods in Service Layer
+
+The following methods were added to improve functionality and structure in the Service layer.
+
+![Added Methods](journalApp/screenshots/added methods in Service.png)
+
+### 📂 Updated Folder Structure
+
+The project folder structure has been improved for better organization and scalability.
+
+![Updated Folder Structure](journalApp/screenshots/updated folder stucture.png)
+
 ---
 
 ## 🧠 What I Learned
