@@ -13,6 +13,7 @@ This repository contains my **Spring Boot learning and practice projects** inclu
 - Maven
 - REST APIs
 - Postman (API Testing)
+- MongoDB
 
 ---
 
@@ -67,4 +68,4 @@ The project folder structure has been improved for better organization and scala
 **Omkar Thorat**
 
 Java Full Stack Developer  
-Spring Boot | Java | SQL
+Spring Boot | Java | MongoDB
