@@ -42,13 +42,13 @@ Example response from the Journal API.
 
 The following methods were added to improve functionality and structure in the Service layer.
 
-![Added Methods](journalApp/screenshots/added methods in Service.png)
+![Added Methods](journalApp/screenshots/addedMethods.png)
 
 ### 📂 Updated Folder Structure
 
 The project folder structure has been improved for better organization and scalability.
 
-![Updated Folder Structure](journalApp/screenshots/updated folder stucture.png)
+![Updated Folder Structure](journalApp/screenshots/updatedStructure.png)
 
 ---
 
